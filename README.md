@@ -1,7 +1,7 @@
 # weather_api
 
 A new Flutter project.
-
+Basic weather app using openmetaweather api.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
